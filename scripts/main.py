@@ -17,7 +17,8 @@ class RatioLock(scripts.Script):
         "8:10 - Portrait": 8/10,
         "2:1 - Cinemascope": 2.0,
         "9:16 - Vertical Video": 9/16,
-        "21:9 - Ultrawide": 21/9
+        "21:9 - Ultrawide": 21/9,
+        "2.40:1 - Anamorphic": 2.40
     }
 
     # Slider controls from A1111 WebUI.
