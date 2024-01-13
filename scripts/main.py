@@ -23,7 +23,9 @@ class RatioLock(scripts.Script):
         "21:9 - Ultrawide": 21/9,
         "2.40:1 - Anamorphic": 2.40,
         "2.76:1 - Ultra Panavision": 2.76,
-        "32:9 - Super Ultrawide": 32/9
+        "32:9 - Super Ultrawide": 32/9,
+        "9:19,5 - 1.85 Portrait Widescreen": 9/19.5,
+        "19,5:9 - 1.85 Landscape Widescreen": 19.5/9
     }
 
     # Slider controls from A1111 WebUI.
